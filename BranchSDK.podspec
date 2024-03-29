@@ -18,7 +18,7 @@ Use the Branch SDK (branch.io) to create and power the links that point back to 
   s.ios.deployment_target = '12.0'
   s.tvos.deployment_target = '12.0'
 
-  s.resources = ["BranchSDK/*.{xcprivacy}"]
+#  s.resources = ["BranchSDK/*.{xcprivacy}"]
   s.ios.source_files = "BranchSDK/*.{h,m}"
 
   s.tvos.source_files = "BranchSDK/*.{h,m}"
